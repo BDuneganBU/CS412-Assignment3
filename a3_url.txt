@@ -1,1 +1,1 @@
-https://cs-412-hw-3.vercel.app/quotes/
+https://cs-412-assignment3.vercel.app/
